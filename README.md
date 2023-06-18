@@ -27,7 +27,7 @@ Create a S3 Bucket with Terraform
   terraform fmt
 ```
 
-#### Aplly
+#### Apply
 ```hcl
   terraform apply plan.out
 ```
